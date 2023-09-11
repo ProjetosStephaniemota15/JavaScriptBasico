@@ -5,3 +5,6 @@ https://projetosstephaniemota15.github.io/JavaScriptBasico/Declaraçãodevariave
 
 ## Aula Funções:
 https://projetosstephaniemota15.github.io/JavaScriptBasico/Funcoes/funcoes.html
+
+## Aula 03:
+https://projetosstephaniemota15.github.io/aula03/aula03.html
