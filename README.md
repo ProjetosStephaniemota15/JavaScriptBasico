@@ -8,3 +8,6 @@ https://projetosstephaniemota15.github.io/JavaScriptBasico/Funcoes/funcoes.html
 
 ## Aula 03:
 https://projetosstephaniemota15.github.io/JavaScriptBasico/aula03/aula03.html
+
+## Aula Tabuada:
+https://projetosstephaniemota15.github.io/JavaScriptBasico/tabuada/index.html
