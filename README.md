@@ -11,3 +11,6 @@ https://projetosstephaniemota15.github.io/JavaScriptBasico/aula03/aula03.html
 
 ## Aula Tabuada:
 https://projetosstephaniemota15.github.io/JavaScriptBasico/tabuada/index.html
+
+## Aula Objetos Orientados:
+https://projetosstephaniemota15.github.io/JavaScriptBasico/obj_orientados/Inicio.html
