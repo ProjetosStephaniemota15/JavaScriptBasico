@@ -1,0 +1,109 @@
+
+img{
+    vertical-align: middle;
+}
+
+body{
+    height: 100%;
+    width: 100%;
+    min-height: 100vh;
+    background: linear-gradient(245.59deg, #16437e 0%, #5276c2 28.53%, #2453d6 75.52%);
+}
+
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: rgb(71, 110, 238);
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(231, 228, 228, 0.2);
+   margin-top: 20px;
+}
+
+#personForm {
+    display: flex;
+    flex-direction: column;
+}
+
+input[type="text"] {
+    margin: 5px 0;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+
+h1{
+    padding-top: 15px;
+    font-family: 'Gill Sans';
+    font-size: 24px;
+    font-weight: bold;
+    color: #3498db; 
+    text-transform: uppercase; 
+    letter-spacing: 2px; 
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); 
+}
+
+p{
+    padding-top: 10px;
+    padding-bottom: 4px;
+    font-family: 'Gill Sans';
+
+}
+
+.texto{
+    text-align: center;
+}
+
+
+.display-details {
+    margin-top: 20px;
+    border-style: solid;
+}
+
+.p2{
+    text-align: center;
+}
+
+.footer {
+    margin-top: 10%;
+    background-color:linear-gradient(245.59deg, #16437e 0%, #5276c2 28.53%, #2453d6 75.52%);
+    color: #ffffff; 
+    font-size: 15px;
+    font-family: 'Gill Sans MT';
+
+}
+
+h1{
+    text-align: center;
+}
+
+.nav1{
+    padding-left: 36%;
+    background-color:#1968c2;
+}
+
+.troca{
+    align-items: center;
+    width: 80%;
+    margin-left: 5%;
+}
+
+a{
+    font-family: 'Gill Sans';
+    font-size: 24px;
+    font-weight: bold;
+    letter-spacing: 1px; 
+    text-align: left; 
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+

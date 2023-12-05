@@ -1,0 +1,92 @@
+
+img{
+    vertical-align: middle;
+}
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: rgb(245, 153, 209);
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.2);
+   margin-top: 20px;
+}
+
+#personForm {
+    display: flex;
+    flex-direction: column;
+}
+
+input[type="text"] {
+    margin: 5px 0;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+
+h1{
+    padding-top: 15px;
+    font-family: 'Gill Sans';
+    font-size: 24px;
+    font-weight: bold;
+    color: #3498db; 
+    text-transform: uppercase; 
+    letter-spacing: 2px; 
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); 
+}
+
+p{
+    padding-top: 10px;
+    padding-bottom: 4px;
+    font-family: 'Gill Sans';
+
+}
+
+.texto{
+    text-align: center;
+}
+
+
+.display-details {
+    margin-top: 20px;
+    border-style: solid;
+}
+
+.p2{
+    text-align: center;
+}
+
+.footer {
+    margin-top: 10%;
+    background-color:#e779b6b4; 
+    color: #000000; 
+    text-align: center;
+    padding: 10px;
+    font-family: 'Gill Sans MT';
+
+}
+
+.nav1{
+    padding-left: 33%;
+    background-color:#e779b6b4;
+}
+
+a{
+    font-family: 'Gill Sans';
+    font-size: 24px;
+    font-weight: bold;
+    letter-spacing: 1px; 
+    text-align: left; 
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
