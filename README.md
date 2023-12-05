@@ -17,3 +17,6 @@ https://projetosstephaniemota15.github.io/JavaScriptBasico/obj_orientados/Inicio
 
 ## Aula Troca de Imagens:
 https://projetosstephaniemota15.github.io/JavaScriptBasico/imagens/index.html
+
+## Trabalho Final:
+https://projetosstephaniemota15.github.io/JavaScriptBasico/projeto_final1/Index.html
